@@ -4,7 +4,7 @@ Statistical Data Analysis - Household Finance and Consumption of Italian Househo
 # SDA Project - Understanding Household Finances
 
 ## About
-This project explores household financial data to uncover patterns in income, spending, and assets using data analysis and machine learning.
+This project explores household financial data to uncover patterns in income, spending, and assets using data analysis.
 
 ## Data Source
 We use data from the European Household Finance and Consumption Survey (Banca d'Italia).
@@ -34,8 +34,7 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook.
 git clone https://github.com/Statistical-Data-Analysis.git
 
 ```
-Run the scripts or Jupyter notebooks to explore the data.
 
-## License
-MIT License. See LICENSE file.
+
+
 
