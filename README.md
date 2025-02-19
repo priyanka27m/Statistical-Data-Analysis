@@ -1,7 +1,7 @@
 # Statistical-Data-Analysis
 Statistical Data Analysis - Household Finance and Consumption of Italian Households
 
-# SDA Project - Understanding Household Finances
+# SDA Project - Understanding Household Finance and Consumption of Italian Households
 
 ## About
 This project explores household financial data to uncover patterns in income, spending, and assets using data analysis.
