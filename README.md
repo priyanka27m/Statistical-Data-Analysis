@@ -3,37 +3,34 @@ Statistical Data Analysis - Household Finance and Consumption of Italian Househo
 
 # SDA Project - Understanding Household Finance and Consumption of Italian Households
 
-## About
-This project explores household financial data to uncover patterns in income, spending, and assets using data analysis.
+## Introduction
+The Household Finance and Consumption Survey (HFCS) from Banca D’Italia provides an in-depth look at household balance sheets, economic conditions, and demographic factors. It covers financial details, assets, and earnings of households across Italy, making it a valuable dataset for economic research.
 
-## Data Source
-We use data from the European Household Finance and Consumption Survey (Banca d'Italia).
+## Key Data Insights
+- **Demographics**: Household size, age, employment, and composition.
+- **Financials**: Income from employment, self-employment, pensions, and other sources.
+- **Assets & Liabilities**: Real estate, financial holdings, debt, and net worth.
+- **Expenditures**: Spending patterns on food, utilities, and consumer goods.
 
-### Key Areas:
-- **People**: Household size, employment, age groups.
-- **Money**: Income sources, savings, investments, and debts.
-- **Possessions**: Homes, vehicles, valuables.
-- **Spending**: Food, utilities, rent, and general expenses.
+## Project Workflow
+1. **Data Cleaning & Preparation**: Handling missing values, fixing inconsistencies.
+2. **Exploratory Analysis**: Visualizing trends and correlations.
+3. **Statistical Testing**: Hypothesis testing (ANOVA, Kruskal-Wallis, T-tests).
+4. **Modeling & Insights**: Regression, clustering, and decision tree models.
 
-## How We Work
-1. **Cleaning Data**: Fixing errors, handling missing values, and detecting outliers.
-2. **Seeing Patterns**: Charts, heatmaps, and comparisons.
-3. **Testing Theories**: Checking statistical differences (ANOVA, Kruskal-Wallis).
-4. **Building Models**: Predicting trends with regression, clustering, and decision trees.
+## Key Findings
+- Gender and education significantly impact income and asset distribution.
+- Household composition influences spending and savings behavior.
+- Regional differences affect financial stability and asset accumulation.
 
-## What We Found
-- Men and women manage money differently.
-- Household size impacts financial habits.
-- Higher education often leads to more financial security.
-
-## Tools We Use
-Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook.
 
 ## How to Use
 ```sh
 git clone https://github.com/Statistical-Data-Analysis.git
-
 ```
+
+
+
 
 
 
